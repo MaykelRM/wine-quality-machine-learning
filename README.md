@@ -15,6 +15,7 @@ Trabalho de Machine Learning utilizando o dataset Wine Quality.
 
 Foram avaliados os modelos KNN e Random Forest, comparando suas métricas de desempenho.
 
-## Arquivos
+## Link do colab
+https://colab.research.google.com/drive/1bu0R8wi5K8UrUxXzdWv4xj4CQP9whfmp?usp=sharing
 
 
